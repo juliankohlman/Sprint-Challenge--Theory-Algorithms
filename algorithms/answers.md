@@ -1,0 +1,7 @@
+a) O(n)
+b) O(log n)
+c) O(n3)
+d) O(n2)
+e) O(2n)
+f) 
+g)
